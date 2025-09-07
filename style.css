@@ -48,13 +48,14 @@ body *{
 }
 
 #container{
-width: 360px;
+width: 100%;
 /*border: 1px solid red;
 margin-right: auto;
 margin-left: auto;
 padding-top: 56px;
 o codigo(margin: 56px auto 0px;)é apenas a forma abreviada  de todo comentario apagado.
 */
+max-width: 588px;
 margin: 56px auto 0px;
 padding: 0 24px;
 }
